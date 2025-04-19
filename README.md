@@ -1,4 +1,4 @@
-#Game Project
+Game Project
 
 Para correr juego: 
 ```sh
